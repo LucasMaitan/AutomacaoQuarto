@@ -28,5 +28,5 @@ Imagem
 * Circuitos eletrônicos
 
 ## Linguagem de programação
-Para programação do microcontrolador ESP8266 foi utilizado a IDE do arduino na linguagem de programação C
+Para programação do microcontrolador ESP8266 foi utilizado a IDE do arduino na linguagem de programação C++
 
