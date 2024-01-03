@@ -12,8 +12,18 @@ O Sistema atua de forma remota nos dispositivos como Iluminação e Ar condicion
 * Codificação
 * Comissionamentos e startup
 
-## Layout
+## Layout da plataforma Web
+![DashboardQuarto](https://github.com/LucasMaitan/AutomacaoQuarto/assets/154474371/78afa772-a491-4039-8e49-ac42bf581234)
 
 ## Desenho de placa eletrônica acomodada em caixa sobrepor 4x2
 ![Desenho3d](https://github.com/LucasMaitan/AutomacaoQuarto/assets/154474371/97af1e10-3f7f-4b9c-a6b0-5275ad056f39)
+
+## Tecnologias utilizadas
+* Protocolo de comunicação MQTT
+* Microcontrolador ESP8266
+* Transmissão de códigos RAW por sinais infravermelho
+* Circuitos eletrônicos
+
+## Linguagem de programação
+Para programação do microcontrolador ESP8266 foi utilizado a IDE do arduino na linguagem de programação C
 
