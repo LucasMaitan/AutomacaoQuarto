@@ -12,6 +12,9 @@ O Sistema atua de forma remota nos dispositivos como Iluminação e Ar condicion
 * Codificação
 * Comissionamentos e startup
 
+## Arquitetura de sistema
+Imagem
+
 ## Layout da plataforma Web
 ![DashboardQuarto](https://github.com/LucasMaitan/AutomacaoQuarto/assets/154474371/78afa772-a491-4039-8e49-ac42bf581234)
 
