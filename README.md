@@ -1,6 +1,6 @@
 # Projeto de módulo de controle para dispositivos residenciais
 ## Sobre o projeto
-Esse projeto foi desenvolvido com objetivo de automatizar dispositivos residenciais através de uma plataforma Mobile.
+Esse projeto foi desenvolvido com objetivo de automatizar dispositivos residenciais através de uma plataforma Mobile e Web.
 
 O Sistema atua de forma remota nos dispositivos de Iluminação e Ar condicionado, com monitoramento em tempo real da temperatura e umidade do ambiente através de uma plataforma em nuvem para IoT (Adafruit IO).
 
