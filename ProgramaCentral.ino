@@ -10,7 +10,7 @@
 //Referências
 #define AIO_SERVER      "io.adafruit.com"
 #define AIO_SERVERPORT  1883                   
-#define AIO_USERNAME  "xxxxxxxxxxxxx" //Nome do usuario da conta no Adafruit
+#define AIO_USERNAME  "xxxxxxxxxxxxxxx" //Nome do usuario da conta no Adafruit
 #define AIO_KEY       "xxxxxxxxxxxxxxxxxxxxxxxxxxxx" //Chave encontrada na plataforma do Adafruit
 #define DHTPIN 4 // pino que estamos conectado
 #define DHTTYPE DHT11 // DHT 11
