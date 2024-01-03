@@ -2,10 +2,12 @@
 ## Sobre o projeto
 Esse projeto foi desenvolvido com objetivo de automatizar dispositivos residenciais através de uma plataforma Mobile.
 
-O Sistema atua de forma remota nos dispositivos como Iluminação e Ar condicionado, com monitoramento em tempo real da temperatura e umidade do ambiente através de uma plataforma em nuvem para IoT (Adafruit IO).
+O Sistema atua de forma remota nos dispositivos de Iluminação e Ar condicionado, com monitoramento em tempo real da temperatura e umidade do ambiente através de uma plataforma em nuvem para IoT (Adafruit IO).
+
+A placa de controle foi projetada de forma compacta para ser alocada dentro de caixas de sobreposição utilizadas em residências, criando a possibilidade de expansão do sistema de controle para os demais cômodos da casa.
 
 ### Etapas do projeto
-* Definição de escopo
+* Seleção de dispositivos para controle
 * Definição das tecnologias utilizadas
 * Definição de componentes eletrônicos
 * Projeto de Layout e acomodação dos componentes
@@ -28,5 +30,5 @@ Imagem
 * Circuitos eletrônicos
 
 ## Linguagem de programação
-Para programação do microcontrolador ESP8266 foi utilizado a IDE do arduino na linguagem de programação C++
+Para programação do microcontrolador ESP8266 foi utilizado a linguagem de programação C++
 
